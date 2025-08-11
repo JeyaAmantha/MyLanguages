@@ -13,8 +13,6 @@ It integrates **visuals**, **audio cues**, and **interactive exercises** to make
 
 The web version runs entirely on the client side and is hosted on GitHub Pages.
 
-> **Note:** This app’s interface and learning materials may be primarily in **Malay**, with additional multilingual support depending on the activity.
-
 ---
 
 ## Learning Objectives
